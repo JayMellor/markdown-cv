@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Different Title
 ---
-# Isaac Newton
+# Isaac Newton Prime
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
