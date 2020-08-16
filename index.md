@@ -4,10 +4,10 @@ title: Jay Mellor
 ---
 # Jay Mellor | Software Engineer
 
-- location: Newcastle-Upon-Tyne
-- tel: 07910 740908
-- [email](mailto:jaymellor25@gmail.com): jaymellor25@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/jay-mellor-496533101/): https://www.linkedin.com/in/jay-mellor-496533101/
+Newcastle-Upon-Tyne  
+07910 740908  
+jaymellor25@gmail.com  
+https://www.linkedin.com/in/jay-mellor-496533101/
 
 
 ## Profile
