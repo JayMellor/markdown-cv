@@ -2,8 +2,7 @@
 layout: cv
 title: Jay Mellor
 ---
-# Jay Mellor
-## Software Engineer
+# Jay Mellor | Software Engineer
 
 - location: Newcastle-Upon-Tyne
 - tel: 07910 740908
@@ -12,7 +11,7 @@ title: Jay Mellor
 
 
 ## Profile
-***TODO***
+A dedicated and driven developer, who strives for the best solution in terms of readability, reusability and security. Also a keen researcher and trainer - eager to learn new skills and practices and share the knowledge in the team. Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
@@ -45,7 +44,7 @@ title: Jay Mellor
 
 `2014-2015`
 **Durham University** Master of Science in Particles, Strings and Cosmology **Merit**  
-- Completed paper on Spinor Helicity Formalism, Amplitudes and Polytopes
+- Authored paper on Spinor Helicity Formalism, Amplitudes and Polytopes
 - Presented a technical Particle Physics talk to a lay audience
 
 `2010-2014`
