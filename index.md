@@ -44,20 +44,16 @@ title: Jay Mellor
 ## Academic Achievements
 
 `2014-2015`
-**Durham University** Master of Science in Particles, Strings and Cosmology ***Pass with Merit***
+**Durham University** Master of Science in Particles, Strings and Cosmology **Merit**  
+- something here
 
 `2010-2014`
-**University of York** Master of Mathematics ***2:1***
+**University of York** Master of Mathematics **2:1**  
+- something here too
 
-`2008-2010`
-**A Levels**  
-A in Maths and Physics and B in Further Maths  
-`2008-2009`
-**AS Levels**  
-A in Chemistry and B in Computing
-
-`2003-2008`
-**GCSEs** 10 A*-Cs including A* in Maths and Chemistry and A in Physics
+`2008-2010` **A-Levels** A in Maths and Physics and B in Further Maths  
+`2008-2009` **AS-Levels** A in Chemistry and B in Computing  
+`2003-2008` **GCSEs** 10 A\*-Cs including A\* in Maths and Chemistry and A in Physics
 
 ## Technical Interests
 - Learning new programming languages and frameworks (for example ClojureScript)

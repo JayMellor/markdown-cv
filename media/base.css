@@ -1,0 +1,19 @@
+body {
+  margin: 24px;
+}
+h1, h2, h3 {
+  font-family: 'Lato', sans-serif;         
+}
+p, li {
+  font-family: 'Roboto', sans-serif;
+}
+code {
+  padding: .2em .4em;
+  margin: 0;
+  background-color: rgba(27,31,35,.05);
+  border-radius: 6px;
+}
+a {
+  text-decoration: none;
+  color: #0366d6;
+}
