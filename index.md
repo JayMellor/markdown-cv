@@ -11,7 +11,9 @@ title: Jay Mellor
 
 
 ## Profile
-A dedicated and driven developer, who strives for the best solution in terms of readability, reusability and security. Also a keen researcher and trainer - eager to learn new skills and practices and share the knowledge in the team. Known for a quality-focused mindset be it at component or architectural level.
+A dedicated and driven developer, who strives for the best solution in terms of readability, reusability and security.  
+Also a keen researcher and trainer - eager to learn new skills and practices and share the knowledge in the team.  
+Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
