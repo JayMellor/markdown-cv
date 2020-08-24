@@ -35,7 +35,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 - Implemented coaching program wizard
 - Built communication data analysis tool
 - Refined existing platform's UI/UX
-- Trained clients on transformation platform [culturbook](https://www.culturbook.io/)
+- Trained clients on culture transformation platform
 
 `2016-2019`
 **Kerridge Commercial Systems** Software Engineer
