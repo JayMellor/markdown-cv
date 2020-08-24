@@ -25,6 +25,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 - Django (Rest Framework)
 - Python
 - Elm
+- Node.js
 
 
 ## Professional Experience
