@@ -62,6 +62,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 ## Technical Interests
 - Learning new programming languages and frameworks (for example ClojureScript)
 - Monads
+- Lisps
 - Test-Driven Development
 
 ## Personal Interests
