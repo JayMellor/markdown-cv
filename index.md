@@ -17,13 +17,15 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
+- Python
+- Django (Rest Framework)
 - React
 - Angular
 - Redux
 - Functional Programming
 - TypeScript
-- Django (Rest Framework)
-- Python
+- Docker
+- Clojure
 - Elm
 - Node.js
 
