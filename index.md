@@ -32,9 +32,9 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Professional Experience
 
-`2019-2020`
+`2019-2021`
 **Tao Leadership Ltd** Full Stack Developer
-- Implemented coaching program wizard
+- Rearchitected existing survey system
 - Built communication data analysis tool
 - Refined existing platform's UI/UX
 - Trained clients on culture transformation platform
