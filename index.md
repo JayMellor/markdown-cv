@@ -17,17 +17,22 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
-- Python
-- Django (Rest Framework)
+**Frontend**
 - React
 - Angular
 - Redux
-- Functional Programming
 - TypeScript
-- Docker
-- Clojure
 - Elm
+
+**Backend**
+- Python
+- Django (Rest Framework)
+- Clojure
 - Node.js
+
+- Preference to a Functional Programming approach when developing
+- Common use of Docker for containing database and Redis caching
+- Knowledge of AWS, in particular EC2 for program deployment
 
 
 ## Professional Experience
@@ -35,7 +40,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 `2019-2021`
 **Tao Leadership Ltd** Full Stack Developer
 
-Responsible for maintaining a web app written in Angular which queries a Django REST Framework backend to load data from a PostgreSQL database. This application is deployed using a CI/CD pipeline ran by Gitlab and hosted on AWS. Part of a small development team who uses Agile methodology with regard to task creation and alllocation with week-long sprints to handle quickly changing requirements.
+Responsible for maintaining a web app written in Angular which queries a Django REST Framework backend to load data from a PostgreSQL database. This application is deployed using a CI/CD pipeline ran by Gitlab and hosted on AWS. Part of a small development team that uses Agile methodology with regard to task creation and allocation with week-long sprints to handle quickly changing requirements.
 
 - Rearchitected existing survey system by removing redundent Django models and Celery tasks and consolidating functionality into a smaller core. This allows for simpler operational maintainance of daily surveys (a key product) while increasing code readability and test coverage
 - Built communication data analysis tool with Django (in part using TDD) to query a Microsoft Graph endpoint and store its consolidated results on a client's cloud instance. This allows for consensual retrieval of client metadata to provide a more accurate picture of their interactions as used in culture change
