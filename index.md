@@ -8,6 +8,7 @@ Newcastle-Upon-Tyne
 07910 740908  
 jaymellor25@gmail.com  
 https://www.linkedin.com/in/jay-mellor-496533101/
+https://github.com/JayMellor
 
 
 ## Profile
