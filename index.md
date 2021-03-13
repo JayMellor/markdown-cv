@@ -45,7 +45,7 @@ Responsible for maintaining a web app written in Angular which queries a Django 
 
 - Rearchitected existing survey system by removing redundant Django models and Celery tasks and consolidating functionality into a smaller core. This allows for simpler operational maintainance of daily surveys (a key product) while increasing code readability and test coverage
 - Built communication data analysis tool with Django (in part using TDD) to query a Microsoft Graph endpoint and store its consolidated results on a client's cloud instance. This allows for consensual retrieval of client metadata to provide a more accurate picture of their interactions as used in culture change
-- Developed a D&I dashboard in Angular for an client to learn their company's segregations and prejudices resulting from anonymously and consensually collected data. This makes use of data manipulation on both the frontend and backend to display data in an intuitive manner having been produced by an AWS Lambda pipeline
+- Developed a D&I dashboard in Angular for a client to learn their company's segregations and prejudices resulting from anonymously and consensually collected data. This makes use of data manipulation on both the frontend and backend to display data in an intuitive manner having been produced by an AWS Lambda pipeline
 - Trained clients on culture transformation platform for their role in guiding their leaders in culture change. This allows for increased product knowledge by the client, in turn reducing misunderstanding and data errors
 
 `2016-2019`
@@ -62,7 +62,7 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 `2014-2015`
 **Durham University** Master of Science in Particles, Strings and Cosmology **Merit**  
 - Authored paper on Spinor Helicity Formalism, Amplitudes and Polytopes
-- Presented a technical Particle Physics talk to a lay audience
+- Presented a technical Particle Physics lecture to a lay audience
 
 `2010-2014`
 **University of York** Master of Mathematics **2:1**  
