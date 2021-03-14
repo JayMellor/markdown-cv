@@ -33,8 +33,9 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 **Other**
 - Preference to a Functional Programming approach when developing
-- Common use of Docker for containing database and Redis caching
+- Common user of Docker for containing database and Redis caching
 - Knowledge of AWS, in particular EC2 for program deployment
+- Familiar with Scrum, and a proponent of collaboration and pair-programming
 
 
 ## Professional Experience
