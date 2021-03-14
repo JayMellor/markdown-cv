@@ -59,6 +59,11 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - Enabled client visibility and insight on project expenses by allowing Purchase Orders to be allocated to a project, adding restrictions on the Purchase Orders relating to the budget of the project and providing a dashboard for the management of projects
 - Mentored and trained development team through sharing product and programming knowledge, pair-programming and hosting confidential one-to-one meetings. This allowed for greater knowledge transfer and increased psychological safety in the team
 
+## Personal Projects / Technical Interests 
+- A filter dropdown with extensive state management in React: https://github.com/JayMellor/react-erp
+- A simple Blog Engine written in Elm: https://github.com/JayMellor/BlogEngineElm
+- Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): https://github.com/JayMellor/cftbat-main
+
 ## Academic Achievements
 
 `2014-2015`
@@ -74,12 +79,6 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 `2008-2010` **A-Levels** A in Maths and Physics and B in Further Maths  
 `2008-2009` **AS-Levels** A in Chemistry and B in Computing  
 `2003-2008` **GCSEs** 10 A\*-Cs including A\* in Maths and Chemistry and A in Physics
-
-## Technical Interests
-- Learning new programming languages and frameworks (for example ClojureScript)
-- Monads
-- Lisps
-- Test-Driven Development
 
 ## Personal Interests
 - Reading Maths and Lambda Calculus/Logic books
