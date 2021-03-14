@@ -81,8 +81,9 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - Test-Driven Development
 
 ## Personal Interests
+- Reading Maths and Lambda Calculus/Logic books
+- Reading science-fiction and fantasy books (Asimov at present)
 - Gaming (souls-likes and metroidvanias are my faviourites)
-- Reading science-fiction and fantasy books (pursuing Asimov at present)
 - Cooking and eating curry 😋
 
 
