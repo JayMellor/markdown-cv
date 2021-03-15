@@ -7,8 +7,8 @@ title: Jay Mellor
 Newcastle-Upon-Tyne  
 07910 740908  
 jaymellor25@gmail.com  
-https://www.linkedin.com/in/jay-mellor-496533101/  
-https://github.com/JayMellor
+[https://www.linkedin.com/in/jay-mellor-496533101/](https://www.linkedin.com/in/jay-mellor-496533101/)  
+[https://github.com/JayMellor](https://github.com/JayMellor)
 
 
 ## Profile
@@ -60,9 +60,9 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - Mentored and trained development team through sharing product and programming knowledge, pair-programming and hosting confidential one-to-one meetings. This allowed for greater knowledge transfer and increased psychological safety in the team
 
 ## Personal Projects / Technical Interests 
-- A filter dropdown with extensive state management in React: https://github.com/JayMellor/react-erp
-- A simple Blog Engine written in Elm: https://github.com/JayMellor/BlogEngineElm
-- Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): https://github.com/JayMellor/cftbat-main
+- A filter dropdown with extensive state management in React: [https://github.com/JayMellor/react-erp](https://github.com/JayMellor/react-erp)
+- A simple Blog Engine written in Elm: [https://github.com/JayMellor/BlogEngineElm](https://github.com/JayMellor/BlogEngineElm)
+- Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): [https://github.com/JayMellor/cftbat-main](https://github.com/JayMellor/cftbat-main)
 
 ## Academic Achievements
 
