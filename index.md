@@ -20,16 +20,12 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 **Frontend**
 - React
-- Angular
-- Redux
 - TypeScript
-- Elm
+- Redux
 
 **Backend**
 - Python
 - Django (Rest Framework)
-- Clojure
-- Node.js
 
 **Other**
 - Preference to a Functional Programming approach when developing
@@ -39,6 +35,11 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 
 ## Professional Experience
+
+`2021-present`
+**EY** Senior Full Stack Developer
+
+Responsible for developing, designing and maintaining the Business Influencer Platform (React frontend; Django backend), which provides the technical backbone for the culture transformation offering by People Advisory Services.
 
 `2019-2021`
 **Tao Leadership Ltd** Full Stack Developer
@@ -63,6 +64,7 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - A filter dropdown with extensive state management in React: [https://github.com/JayMellor/react-erp](https://github.com/JayMellor/react-erp)
 - A simple Blog Engine written in Elm: [https://github.com/JayMellor/BlogEngineElm](https://github.com/JayMellor/BlogEngineElm)
 - Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): [https://github.com/JayMellor/cftbat-main](https://github.com/JayMellor/cftbat-main)
+- Recipes and code from learning Common Lisp with [Practical Common Lisp](https://gigamonkeys.com/book/): [https://github.com/JayMellor/common-lisp-recipes](https://github.com/JayMellor/common-lisp-recipes)
 
 ## Academic Achievements
 
@@ -83,7 +85,7 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 ## Personal Interests
 - Reading Maths and Lambda Calculus/Logic books
 - Reading science-fiction and fantasy books (Asimov at present)
-- Gaming (souls-likes and metroidvanias are my faviourites)
+- Gaming (souls-likes and metroidvanias are my faviourite)
 - Cooking and eating curry 😋
 
 
