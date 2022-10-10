@@ -64,7 +64,7 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - A filter dropdown with extensive state management in React: [https://github.com/JayMellor/react-erp](https://github.com/JayMellor/react-erp)
 - A simple Blog Engine written in Elm: [https://github.com/JayMellor/BlogEngineElm](https://github.com/JayMellor/BlogEngineElm)
 - Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): [https://github.com/JayMellor/cftbat-main](https://github.com/JayMellor/cftbat-main)
-- Recipes and code from learning Common Lisp with [Practical Common Lisp](https://gigamonkeys.com/book/): [https://github.com/JayMellor/common-lisp-recipes](https://github.com/JayMellor/common-lisp-recipes)
+- Recipes and code from learning Common Lisp with [Practical Common Lisp](https://gigamonkeys.com/book/) and [CLOG](https://github.com/rabbibotton/clog): [https://github.com/JayMellor/common-lisp-recipes](https://github.com/JayMellor/common-lisp-recipes)
 
 ## Academic Achievements
 
