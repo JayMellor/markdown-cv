@@ -4,7 +4,7 @@ title: Jay Mellor
 ---
 # Jay Mellor | Software Engineer
 
-Newcastle-Upon-Tyne  
+Morpeth, Northumberland  
 07910 740908  
 jaymellor25@gmail.com  
 [https://www.linkedin.com/in/jay-mellor-496533101/](https://www.linkedin.com/in/jay-mellor-496533101/)  
