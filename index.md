@@ -19,61 +19,22 @@ Known for a quality-focused mindset be it at component or architectural level.
 ## Technical Skills
 
 | **Frontend** | **Backend** | **Other**|
-|:-------------|:------------|---------:|
+|:-------------|:------------|:---------|
 |TypeScript    |Python       |AWS EC2   |
 |React         |Django       |AWS S3    |
 |React Query   |Django REST Framework|Git|
-|React Hook Form|PostgreSQL||
-|Material UI|Celery||
-|Jest|Django Signals||
-|React Testing Library|Asyncio||
-|MSW (Mock Service Worker)|Pytest||
-|Redux|Selenium||
-|Angular|||
+|React Hook Form|PostgreSQL|Docker|
+|Material UI|pandas|GitLab CI|
+|Jest|Celery|Scrum|
+|React Testing Library|Django Signals|Functional Programming|
+|MSW (Mock Service Worker)|Asyncio||
+|Redux|Pytest||
+|Angular|Selenium||
 |ngRx|||
 |RxJS|||
 |SCSS|||
 |HTML|||
 |Karma|||
-
-**Frontend**
-
-- TypeScript
-- React
-- React Query
-- React Hook Form
-- Material UI
-- Jest
-- React Testing Library
-- MSW (Mock Service Worker)
-- Redux
-- Angular
-- ngRx
-- RxJS
-- SCSS
-- HTML
-- Karma
-
-**Backend**
-
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- Celery
-- Django Signals
-- Asyncio
-- Pytest
-- Selenium
-
-**Other**
-
-- AWS EC2
-- AWS S3
-- Git
-- Preference to a Functional Programming approach when developing
-- Common user of Docker for containing database and Redis caching
-- Familiar with Scrum, and a proponent of collaboration and pair-programming
 
 
 ## Professional Experience
