@@ -9,7 +9,7 @@ p, li, table {
   line-height: 1.5;
 }
 th, td {
-   padding-right: 64px; 
+  padding-right: 96px; 
 }
 code {
   padding: .2em .4em;
