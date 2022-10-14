@@ -18,6 +18,24 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
+| **Frontend** | **Backend** | **Other**|
+|:-------------|:------------|---------:|
+|TypeScript    |Python       |AWS EC2   |
+|React         |Django       |AWS S3    |
+|React Query   |Django REST Framework|Git|
+|React Hook Form|PostgreSQL||
+|Material UI|Celery||
+|Jest|Django Signals||
+|React Testing Library|Asyncio||
+|MSW (Mock Service Worker)|Pytest||
+|Redux|Selenium||
+|Angular|||
+|ngRx|||
+|RxJS|||
+|SCSS|||
+|HTML|||
+|Karma|||
+
 **Frontend**
 
 - TypeScript
@@ -125,13 +143,14 @@ Maintained a desktop ERP application written in proprietary KCML (simlar to C++)
 - A simple Blog Engine written in Elm: [https://github.com/JayMellor/BlogEngineElm](https://github.com/JayMellor/BlogEngineElm)
 - Exercises from learning Clojure through [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/): [https://github.com/JayMellor/cftbat-main](https://github.com/JayMellor/cftbat-main)
 - Recipes and code from learning Common Lisp with [Practical Common Lisp](https://gigamonkeys.com/book/) and [CLOG](https://github.com/rabbibotton/clog): [https://github.com/JayMellor/common-lisp-recipes](https://github.com/JayMellor/common-lisp-recipes)
+- I enjoy using Emacs when I can. This CV was written using Markdown on Emacs and pushed to my GitHub repository!
 
 ## Academic Achievements
 
 `2014-2015`
 **Durham University** Master of Science in Particles, Strings and Cosmology **Merit**  
 - Authored paper on Spinor Helicity Formalism, Amplitudes and Polytopes
-- Presented a technical Particle Physics lecture to a lay audience
+- Presented a technical Particle Physics lecture on the Standard Model to a lay audience
 
 `2010-2014`
 **University of York** Master of Mathematics **2:1**  
