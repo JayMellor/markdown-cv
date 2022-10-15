@@ -1,2 +1,8 @@
 _site/
 .sass-cache/
+
+# Output files
+*.html
+
+# Emacs temp files
+*.*~
