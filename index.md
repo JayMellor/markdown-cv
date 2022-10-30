@@ -20,14 +20,14 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 | **Frontend** | **Backend** | **Other**|
 |:-------------|:------------|:---------|
-|TypeScript    |Python       |AWS EC2   |
-|React         |Django       |AWS S3    |
-|React Query   |Django REST Framework|Git|
-|React Hook Form|PostgreSQL|Docker|
-|Material UI|pandas|GitLab CI|
+|TypeScript    |Python       |Git   |
+|React         |Django       |Docker    |
+|React Query   |Django REST Framework|GitLab CI|
+|React Hook Form|PostgreSQL|REST|
+|Material UI|pandas|Functional Programming|
 |Jest|Celery|Scrum|
-|React Testing Library|Django Signals|Functional Programming|
-|MSW (Mock Service Worker)|Asyncio||
+|React Testing Library|Django Signals|AWS EC2|
+|MSW (Mock Service Worker)|Asyncio|AWS S3|
 |Redux|Pytest||
 |Angular|Selenium||
 |ngRx|||
