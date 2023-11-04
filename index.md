@@ -18,28 +18,35 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
-| **Frontend** | **Backend** | **Other**|
-|:-------------|:------------|:---------|
-|TypeScript    |Python       |Git   |
-|React         |Django       |Docker    |
-|React Query   |Django REST Framework|GitLab CI|
-|React Hook Form|PostgreSQL|REST|
-|Material UI|pandas|Functional Programming|
-|Jest|Celery|Scrum|
-|React Testing Library|Django Signals|AWS EC2|
-|MSW (Mock Service Worker)|Asyncio|AWS S3|
-|Redux|Pytest||
-|Angular|Selenium||
-|ngRx|||
-|RxJS|||
-|SCSS|||
-|HTML|||
-|Karma|||
-
+| **Frontend**    |                       | **Backend**           | **Other**              |
+|:----------------|:----------------------|:----------------------|:-----------------------|
+| TypeScript      | Jest                  | Python                | Git                    |
+| React           | React Testing Library | Django                | Docker                 |
+| React Query     | MSW                   | Django REST Framework | GitLab CI              |
+| React Hook Form | Redux                 | PostgreSQL            | REST                   |
+| Material UI     | SCSS                  | pandas                | Functional Programming |
+| Angular         | HTML                  | Celery                | Scrum                  |
+| NgRx            |                       | Django Signals        | AWS EC2                |
+| RxJS            |                       | Asyncio               | AWS S3                 |
+| Karma           |                       | Pytest                |                        |
+|                 |                       | Selenium              |                        |
 
 ## Professional Experience
 
-`2021-present`
+`2023-present`
+**Hofy Ltd** Software Engineer
+
+_Technologies used: TypeScript, React, Go, PostgreSQL_
+
+Hofy Ltd provides a rental and purchasing services to companies to equip remote workers. Also handles transfer of company assets, repairs and warranties.
+
+- Implemented functionality to enable Store & Reuse in the platform (https://www.hofy.com/blog/store-reuse-hofy-devices).
+
+- Spearheaded updating existing tests to use the Builder pattern. This allowed more extensible test packages and more reliable tests as database manipulation is abstracted away
+
+- Challenged existing practice around paginated responses, ushering adoption of using a generic paginated response. This ensures conformity of HTTP responses and reduces risk of errors caused by manual duplication of code
+
+`2021-2023`
 **EY** Senior Full Stack Developer
 
 _Technologies used: All specified technologies in Technical Skills_
