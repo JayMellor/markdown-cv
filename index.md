@@ -34,7 +34,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 ## Professional Experience
 
 `2023-present`
-**Hofy Ltd** Software Engineer
+**Hofy Ltd** Senior Software Engineer
 
 _Technologies used: TypeScript, React, Go, PostgreSQL_
 
