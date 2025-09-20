@@ -18,20 +18,26 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Technical Skills
 
-| **Frontend**    |                       | **Backend**           | **Other**              |
-|:----------------|:----------------------|:----------------------|:-----------------------|
-| TypeScript      | Jest                  | Python                | Git                    |
-| React           | React Testing Library | Django                | Docker                 |
-| React Query     | MSW                   | Django REST Framework | GitLab CI              |
-| React Hook Form | Redux                 | PostgreSQL            | REST                   |
-| Material UI     | SCSS                  | pandas                | Functional Programming |
-| Angular         | HTML                  | Celery                | Scrum                  |
-| NgRx            |                       | Django Signals        | AWS EC2                |
-| RxJS            |                       | Asyncio               | AWS S3                 |
-| Karma           |                       | Pytest                |                        |
-|                 |                       | Selenium              |                        |
+| **Frontend**          | **Backend** | **Other**              |
+|:----------------------|:------------|:-----------------------|
+| TypeScript            | Go          | Git                    |
+| React                 | Python      | Docker                 |
+| React Query           | Django      | REST                   |
+| React Hook Form       | PostgreSQL  | Functional Programming |
+| React Testing Library | pandas      | Scrum                  |
+| HTML / CSS            | Pytest      | AWS EC2                |
+|                       |             | AWS S3                 |
+
 
 ## Professional Experience
+
+**Deel IT Ltd** Senior Backend Engineer (Fullstack)
+
+_Technologies used: TypeScript, React, Go, PostgreSQL_
+
+- Led a project to rebuild the platform's billing of addon services so that they would be billed on a client level and in cadence with other subscriptions
+
+- Supported a team of mid-level developers with ticket speccing, platform knowledge and technical ability, the latter through pull requests and code reviews
 
 `2023-present`
 **Hofy Ltd** Senior Software Engineer
@@ -46,10 +52,13 @@ Hofy Ltd provides a rental and purchasing services to companies to equip remote 
 
 - Challenged existing practice around paginated responses, ushering adoption of using a generic paginated response. This ensures conformity of HTTP responses and reduces risk of errors caused by manual duplication of code
 
+<!-- Other skills  -->
+<!--  RxJS, Celery, MSW, Redux, Selenium, Asyncio, Jest -->
+
 `2021-2023`
 **EY** Senior Full Stack Developer
 
-_Technologies used: All specified technologies in Technical Skills_
+_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest__
 
 Maintainer and Subject Matter Expert of the Business Influencer Platform (BIP), the name of the HR culture transformation platform following Tao Leadership's acquisition by EY.
 
@@ -66,7 +75,7 @@ Maintainer and Subject Matter Expert of the Business Influencer Platform (BIP), 
 `2019-2021`
 **Tao Leadership Ltd** Full Stack Developer
 
-_Technologies used: All specified technologies in Technical Skills_
+_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest__
 
 Tao Leadership Ltd was a small (7-8 people)  HR consultancy that used Data Science insights from survey results to drive culture change. It was acquired by EY in 2021. 
 
