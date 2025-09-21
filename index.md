@@ -2,7 +2,7 @@
 layout: cv
 title: Jay Mellor
 ---
-# Jay Mellor | Software Engineer
+# Jay Mellor | Senior Software Engineer
 
 Morpeth, Northumberland  
 07910 740908  
