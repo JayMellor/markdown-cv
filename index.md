@@ -31,6 +31,7 @@ Known for a quality-focused mindset be it at component or architectural level.
 
 ## Professional Experience
 
+`2024-present`
 **Deel IT Ltd** Senior Backend Engineer (Fullstack)
 
 _Technologies used: TypeScript, React, Go, PostgreSQL_
@@ -39,7 +40,7 @@ _Technologies used: TypeScript, React, Go, PostgreSQL_
 
 - Supported a team of mid-level developers with ticket speccing, platform knowledge and technical ability, the latter through pull requests and code reviews
 
-`2023-present`
+`2023-2024`
 **Hofy Ltd** Senior Software Engineer
 
 _Technologies used: TypeScript, React, Go, PostgreSQL_
@@ -58,7 +59,7 @@ Hofy Ltd provides a rental and purchasing services to companies to equip remote 
 `2021-2023`
 **EY** Senior Full Stack Developer
 
-_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest__
+_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest_
 
 Maintainer and Subject Matter Expert of the Business Influencer Platform (BIP), the name of the HR culture transformation platform following Tao Leadership's acquisition by EY.
 
