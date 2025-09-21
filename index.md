@@ -78,7 +78,7 @@ Maintainer and Subject Matter Expert of the Business Influencer Platform (BIP), 
 `2019-2021`
 **Tao Leadership Ltd** Full Stack Developer
 
-_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest__
+_Technologies used: TypeScript, React, React Query, Material UI, Angular, Python, Django, Django REST Framework, pytest_
 
 Tao Leadership Ltd was a small (7-8 people)  HR consultancy that used Data Science insights from survey results to drive culture change. It was acquired by EY in 2021. 
 
