@@ -34,6 +34,8 @@ Known for a quality-focused mindset be it at component or architectural level.
 `2024-present`
 **Deel IT Ltd** Senior Backend Engineer (Fullstack)
 
+Deel IT Ltd is a subsidiary of Deel, Inc. that was created on Hofy's acquisition. Deel, Inc. provides a unified HR experience for employment contracts, immigration, leave and payroll in addition to Deel IT's equiment management offering.
+
 _Technologies used: TypeScript, React, Go, PostgreSQL_
 
 - Led a project to rebuild the platform's billing of addon services so that they would be billed on a client level and in cadence with other subscriptions
@@ -45,7 +47,7 @@ _Technologies used: TypeScript, React, Go, PostgreSQL_
 
 _Technologies used: TypeScript, React, Go, PostgreSQL_
 
-Hofy Ltd provides a rental and purchasing services to companies to equip remote workers. Also handles transfer of company assets, repairs and warranties.
+Hofy Ltd provides a rental and purchasing services to companies to equip remote workers. Also handles transfer of company assets, repairs and warranties. It was acquired by Deel, Inc in 2024.
 
 - Implemented functionality to enable Store & Reuse in the platform (https://www.hofy.com/blog/store-reuse-hofy-devices).
 
